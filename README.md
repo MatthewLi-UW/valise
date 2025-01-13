@@ -27,4 +27,4 @@ Matthew Li mf5li@uwaterloo.ca
 Cristal Lu c23lu@uwaterloo.ca
 
 ## Resources
-[User Documentation](https://github.com/MatthewLi-UW/Valise/wiki/User-Documentation) |
+[User Documentation](https://github.com/MatthewLi-UW/Valise/wiki/User-Documentation)
