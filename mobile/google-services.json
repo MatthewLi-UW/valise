@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929363288286",
+    "project_id": "valise-app",
+    "storage_bucket": "valise-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929363288286:android:cba047974f66d09390624f",
+        "android_client_info": {
+          "package_name": "com.valise.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929363288286-ntfiin7pl0s20rhnc7ihu0qh384lj5i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.valise.mobile",
+            "certificate_hash": "ba128f6b10e535d82cf9ff7e822b305948bb0489"
+          }
+        },
+        {
+          "client_id": "929363288286-3jv64mlrjtsn0q87jlnr7cp4queb7ga3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0q9HEO9e4LRpuFqmNg0MloOM0vTpmCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929363288286-3jv64mlrjtsn0q87jlnr7cp4queb7ga3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

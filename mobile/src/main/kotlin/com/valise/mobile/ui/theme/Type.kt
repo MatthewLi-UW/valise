@@ -1,0 +1,49 @@
+package com.valise.mobile.ui.theme
+
+import androidx.compose.material3.Typography
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.Font
+import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.sp
+import com.valise.mobile.R
+
+val josefinsans = FontFamily(
+    Font(R.font.josefinsans_variablefont_wght, FontWeight.Black, FontStyle.Normal),
+    Font(R.font.josefinsans_italic_variablefont_wght, FontWeight.Black, FontStyle.Italic),
+    Font(R.font.josefinsans_bold, FontWeight.Black, FontStyle.Normal),
+)
+
+// Set of Material typography styles to start with
+val Typography = Typography(
+    bodyLarge = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontWeight = FontWeight.Normal,
+        fontSize = 25.sp,
+        lineHeight = 28.sp,
+        letterSpacing = 0.5.sp
+    ),
+    /* Other default text styles to override
+    titleLarge = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontWeight = FontWeight.Normal,
+        fontSize = 22.sp,
+        lineHeight = 28.sp,
+        letterSpacing = 0.sp
+    ),
+    labelSmall = TextStyle(
+        fontFamily = FontFamily.Default,
+        fontWeight = FontWeight.Medium,
+        fontSize = 11.sp,
+        lineHeight = 16.sp,
+        letterSpacing = 0.5.sp
+    )
+    */
+//    titleLarge = TextStyle(
+//        fontFamily = josefinsans,
+//        fontWeight = FontWeight.Bold,
+//        fontSize = 30.sp,
+//    )
+)
+
