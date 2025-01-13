@@ -33,7 +33,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAVNo1EjhVSHk-eO3pXbg_LBJEmlyzgKsY" />
+            android:value=PLACES_API_KEY />
 
         <activity
                 android:name="com.valise.mobile.MainActivity"
