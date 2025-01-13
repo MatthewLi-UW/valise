@@ -1,4 +1,4 @@
-# Team 102-11: Valise
+Valise
 ![valise banner](mobile/src/main/res/drawable/new_valise_banner.png)
 [**Newest Release**](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Version-0.40-Release)
 
@@ -30,10 +30,3 @@ Cristal Lu c23lu@uwaterloo.ca
 ## Resources
 [Releases](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Releases) |
 [User Documentation](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/User-Documentation) |
-[Design Diagrams](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Design-Diagrams) |
-[Team Reflection](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Team-Reflection)
-
-[Team Contract](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Team-Contract) |
-[Project Proposal](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Project-Proposal) |
-[Design Proposal](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Design-Proposal) |
-[Meeting Minutes](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Meeting-Minutes)
