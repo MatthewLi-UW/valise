@@ -1,6 +1,5 @@
 Valise
 ![valise banner](mobile/src/main/res/drawable/new_valise_banner.png)
-[**Newest Release**](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Version-0.40-Release)
 
 ## Introduction
 `Valise` is a robust platform designed to revolutionize how we travel. The program simplifies your journey by organizing everything you need in one place. Build detailed itineraries, securely store travel documents, manage hotel bookings and tickets, and explore your destinations with personalized maps—all in a sleek, user-friendly app. Seamless, stress-free travel planning is just a tap away with `Valise`!
@@ -26,7 +25,3 @@ Michael Chen m52chen@uwaterloo.ca
 Matthew Li mf5li@uwaterloo.ca
 
 Cristal Lu c23lu@uwaterloo.ca
-
-## Resources
-[Releases](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/Releases) |
-[User Documentation](https://git.uwaterloo.ca/mf5li/Team-102-11/-/wikis/User-Documentation) |
