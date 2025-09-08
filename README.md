@@ -1,3 +1,5 @@
+(For detailed guide, visit [User Documentation](https://github.com/MatthewLi-UW/Valise/wiki/User-Documentation))
+
 Valise
 ![valise banner](mobile/src/main/res/drawable/new_valise_banner.png)
 
