@@ -13,7 +13,7 @@ Click the latest release below and download the release APK file. If using an An
   3. Drag the APK to the home screen once the AVD is loaded.
 
 If running on a physical device, the following steps vary from device to device, but usually follow the following:
-  1. Open Settings 
+  1. Open the Settings 
   2. Navigate to Security or Privacy 
   3. Enable the Install unknown apps or Unknown sources option
   4. Navigate to the downloaded APK file using the File manager, and tap to install.
